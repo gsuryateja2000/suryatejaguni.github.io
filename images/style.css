@@ -25,6 +25,12 @@ hr{
     .checkbox::before{
         background-color:green;
         }
+button{
+  border-width:2px;
+    width: 175;
+    height: 18px;
+    background-color: #eaf6f6;
 
+}
    
     
