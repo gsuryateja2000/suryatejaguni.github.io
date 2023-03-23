@@ -1,8 +1,9 @@
 
 function yourmsg(){
     username=userName.value;
+    lastname1=LastName.value;
     usermail=userMail.value;
-    outputMsg("Hi "+username+" its pleaure to meet you , we will connect  through  "+usermail );
+    outputMsg("Hi " + username +" "+ lastname1 + " its pleaure to meet you , we will connect  through  "+usermail+" soon!" );
 }
 function working(){
     alert("working");
