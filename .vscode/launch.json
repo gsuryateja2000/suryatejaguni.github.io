@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open surya_resume.html",
-            "file": "c:\\Users\\1000074450\\webdevolpment\\surya_resume.html"
+            "file": "c:\\Users\\1000074450\\webdevolpment\\index.html"
         }
     ]
 }
