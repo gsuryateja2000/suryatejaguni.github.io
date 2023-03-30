@@ -6,6 +6,7 @@ function yourmsg(){
     outputMsg("Hi " + username +" "+ lastname1 + " it's pleaure to meet you , we will connect  through  "+usermail+" soon!" );
 
 }
+//hi
 function working(){
     alert("working");
 }
